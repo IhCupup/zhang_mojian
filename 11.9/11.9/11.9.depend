@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1554632014 source:c:\users\asus\desktop\11.9\11.9\main.cpp
+	<iostream>
+	<iomanip>
+	"Package.h"
+
+1554631702 c:\users\asus\desktop\11.9\11.9\include\package.h
+	<string>
+
+1554631732 source:c:\users\asus\desktop\11.9\11.9\src\package.cpp
+	<iostream>
+	<stdexcept>
+	"Package.h"
+
